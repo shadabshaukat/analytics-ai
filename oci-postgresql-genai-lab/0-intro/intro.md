@@ -18,7 +18,7 @@ The website created during the workshop has several ways to search:
 - Semantic Search: Based on the *Meaning* (Vector Search)
 - Hybrid: Based on the 2 above search
 - RAG (Retrieval Augmented Generation): Answer questions based on documents
-- and a "Generate" response button.
+- and a "Generate" response button
 
 The procedures in this workshop are designed for users that have obtained an Oracle Cloud free trial account with active credits. The procedures will also work for other Oracle Cloud accounts but may, in some cases, require minor adaptation.
 
