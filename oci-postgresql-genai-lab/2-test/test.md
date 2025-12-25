@@ -83,7 +83,6 @@ None
 ## Acknowledgements
 
 - **Author**
-    - Marc Gueury, Master Principal Account Cloud Engineer
-    - Marek Krátký, Cloud Storage Specialist 
+    - Shadab Mohammad, Master Principal Cloud Architect
 
 
