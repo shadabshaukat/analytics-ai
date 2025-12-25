@@ -297,7 +297,6 @@ Here's what you accomplished. You explored multiple services in a compartment in
 
 ## Acknowledgements
 - **Author**
-    - Marc Gueury, Cloud AI Speciialist
-    - Marek Krátký, Cloud Storage Specialist 
+    - Shadab Mohammad, Master Principal Cloud Architect
 
 
